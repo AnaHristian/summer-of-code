@@ -9,9 +9,9 @@
 Cristina Tarantino: 32 yesterday! How many milliseconds old is she hahaha? Calculate @Cristina Tarantino's age in milliseconds.
 
 **Here are some tougher questions:**
-4. How many days does it take for a 32-bit system to timeout, if it has a bug with integer overflow?
-5. How about a 64-bit system?
-6. Calculate your age accurately based on your birthday (maybe use time of day e.g. 8:23am if you know it, use 12:00 noon midday) - you will need JavaScript DateTime functionality.
+1. How many days does it take for a 32-bit system to timeout, if it has a bug with integer overflow?1
+2. How about a 64-bit system?
+3. Calculate your age accurately based on your birthday (maybe use time of day e.g. 8:23am if you know it, use 12:00 noon midday) - you will need JavaScript DateTime functionality.
 
 **Day 2**
 
