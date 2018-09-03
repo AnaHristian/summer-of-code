@@ -92,7 +92,7 @@ result = {
             ... 
             "z", 893
          }
-         ```
+ ```
 11. Create a dictionary with your own personal details, feel free to be creative and funny so for example, you could include key-value pairs with quirky fact, fav quote, pet. Practice adding, modifying, accesing.
 12. Review the chat reply of today's beautiful class interaction and instantiate a student variable for everyone who shared their dream.
 13. Translate the real world 1MWTT student into a Student class, decide on all the attributes that would be meaningful. 
