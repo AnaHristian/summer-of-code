@@ -1,7 +1,10 @@
 Day | Assignment | Description | Required/Optional
 :------------: | ------------- | ------------- | :-------------:
-D1 | Numbers |Write a program that tells you the following:  - Hours in a year. -How many hours are in a year?  - Minutes in a decade. How many minutes are in a decade? - Your age in seconds. How many seconds old are you? (I'm not going to check your answer, so be as accurate—or not—as you want.) - Andreea Visanoiu: I'm 48618000 seconds old hahaha. Calculate @Andreea Visanoiu's age.| Required
-D1 | Numbers (2) | Here are some tougher questions: - How many days does it take for a 32-bit system to timeout, if it has a bug with integer overflow? - How about a 64-bit system? - Calculate your age accurately based on your birthday (maybe use time of day e.g. 8:23am if you know it, use 12:00 noon midday) - you will need Python modules. | Optional
+D1 | Numbers |Write a program that tells you the following: 
+|1.| How many hours are in a year?  
+|2.| How many minutes are in a decade? 
+|3.| How many seconds old are you? 
+|4.| Andreea Visanoiu: I'm 48618000 seconds old hahaha. Calculate @Andreea Visanoiu's age.| Required
 D3 | Full name greeting | Write a program that asks for a person’s first name, then middle, and then last. Finally, it should greet the person using their full name. | Required
 D3 | Bigger, better favorite number. | Write a program that asks for a person’s favorite number. Have your program add 1 to the number, and then suggest the result as a bigger and better favorite number. (Do be tactful about it, though.) | Required
 D3 | Angry boss. | Write an angry boss program that rudely asks what you want. Whatever you answer, the angry boss should yell it back to you and then fire you. For example, if you type in I want a raise, it should yell back like this: 'WHADDAYA MEAN "I WANT A RAISE"?!? YOU'RE FIRED!!' | Required
@@ -16,3 +19,4 @@ D4 | Table of contents. | Write a table of contents program here. Start the prog
 D4 | Moo | Write a function that prints out "moo" n times. | Required
 D4 | Old-school Roman numerals.| Write a method that when passed an integer between 1 and 3000 (or so) returns a string containing the proper old-school Roman numeral. In other words, old_roman_numeral 4 should return 'IIII'. Make sure to test your method on a bunch of different numbers. *Hint: Use the integer division and modulus methods.* For reference, these are the values of the letters used: I = 1 V = 5 X = 10 L = 50 C = 100 D = 500 M = 1000 | Required
 D4 | “Modern” Roman numerals. | Eventually, someone thought it would be terribly clever if putting a smaller number before a larger one meant you had to subtract the smaller one. As a result of this development, you must now suffer. Rewrite your previous method to return the new-style Roman numerals so when someone calls roman_numeral 4, it should return 'IV', 90 should be 'XC' etc. | Required
+D1 | Numbers (2) | Here are some tougher questions: - How many days does it take for a 32-bit system to timeout, if it has a bug with integer overflow? - How about a 64-bit system? - Calculate your age accurately based on your birthday (maybe use time of day e.g. 8:23am if you know it, use 12:00 noon midday) - you will need Python modules. | Optional
